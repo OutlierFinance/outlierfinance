@@ -12,8 +12,8 @@ description: > # this means to ignore newlines until "baseurl:"
     Follow a financial outlier on his journey to financial independence.
     Learn the math and statistics behind the techniques you too can use to
     buy your freedom.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://outlierfinance.com" # the base hostname & protocol for your site
+baseurl: "/outlierfinance" # the subpath of your site, e.g. /blog
+url: "https://outlierfinance.github.io" # the base hostname & protocol for your site
 twitter_username: OutlierFinance
 github_username:  OutlierFinance
 
