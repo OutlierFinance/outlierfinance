@@ -6,6 +6,9 @@
 #- title: External Link
 #  url: http://mademistakes.com
 
+- title: Subscribe
+  url: /feed.xml
+
 - title: GraphTax (Canada)
   url: http://graphtax.ca
 
