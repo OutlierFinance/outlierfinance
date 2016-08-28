@@ -3,9 +3,7 @@ layout: post
 title: Should you invest in your RRSP or your TFSA (or regular investment account)?
 tags: [tax]
 image:
-  feature: abstract-1.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+  feature: mugs.jpg
 ---
 
 People often wonder when they should use an RRSP or TFSA. Both can be very useful, but if you only have enough extra income to fund one, which should you use? Many of the arguments for or against these accounts are based on conceptual understanding. I will try to demonstrate with cold, hard math where the strengths of each lie.
