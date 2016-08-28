@@ -1,0 +1,13 @@
+# Menu navigation links
+
+#- title: Theme Setup
+#  url: /theme-setup/
+#
+#- title: External Link
+#  url: http://mademistakes.com
+
+- title: GraphTax (Canada)
+  url: http://graphtax.ca
+
+- title: GraphTax (USA)
+  url: http://graphtax.com
