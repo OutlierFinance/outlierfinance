@@ -10,7 +10,7 @@ url: "http://outlierfinance.com" # the base hostname & protocol for your site
 # Owner/author information
 owner:
   name:           Outlier Finance
-  avatar:         avatar.jpg
+  avatar:         outlier.png
   bio:            "Follow a financial outlier on his journey to financial independence. Learn the math and statistics behind the techniques you too can use to buy your freedom."
   email:          outlier@outlierfinance.com
   # Social networking links used in footer. Update and remove as you like.
