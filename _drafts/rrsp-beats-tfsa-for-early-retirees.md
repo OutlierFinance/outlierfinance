@@ -13,13 +13,15 @@ The Mad Fientist has done a great job of demonstrating a real world application 
 
 # Comparison
 
-For our purposes, we are going to assume three different investment strategies for retirement savings. You can either put your full investment into an RRSP, a TFSA, or a non-registered account.
+In my previous post, we looked at a single investment contribution and its value after some years of growth. While interesting to evaluate, this is not how investment accounts are typically used. Most people contribute regularly (weekly, monthly, annually) and then withdraw a regular amount to support their needs rather than a single large withdrawal. For our purposes, we are going to assume three different investment strategies for retirement savings. You can either put your full investment into an RRSP, a TFSA, or a non-registered account.
 
 ## Assumptions
 
 For our comparisons, I will be using the same hypothetical saver from the Mad Fientist article: a 30-year-old who plans to retire at age 40. This account will go untouched from ages 40 to 45, after which $9,000 will be withdrawn every year from age 45 to 60.
 
-Let's assume a tax bracket of 25% during the contribution years and 15% during the withdrawal years. Since TFSAs have much less contribution room each year than RRSPs, we will use $10,000 of pre-tax money per year for contributions assuming that there is enough contribution room in the TFSA for all of our years of saving.
+Most people earn the more income while they are working than when they are retired. Shocking, I know. Since the intention of theses savings accounts is to save a portion of your income (10% is the often recommended amount), by definition your expenses must be less than your full income. Once you start pulling from your investment accounts in retirement, as long as your lifestyle expenses haven't increased (and they are statistically more likely to decrease) you will need no more than that spent portion of your previous income.
+
+Knowing that our income should go down in retirement, let's assume a tax bracket of 25% during the contribution years and 15% during the withdrawal years. Since TFSAs have much less contribution room each year than RRSPs, we will use $10,000 of pre-tax money per year for contributions assuming that there is enough contribution room in the TFSA for all of our years of saving.
 
 As for investment growth, we'll assume 10% per year equally split between capital gains and dividends to illustrate the point.
 
@@ -36,3 +38,17 @@ In this situation, the full $10,000 can be invested each year. Growth every year
 ## Case 3 - TFSA
 
 With the TFSA, $7,500 will be available after taxes have been paid each year. Growth and withdrawals will be totally tax free. Each year's withdrawals will be exactly $9,000.
+
+
+
+- why this post
+    - prev post looked at single contribution and single withdrawal
+    - this post looks at regular contributions and regular withdrawals
+    - should this get moved out of the "Comparison" section?
+- can we do different math to show the max we could withdraw from each and never run out?
+    - RRSP + TFSA and/or all three combo case might show something interesting
+- final results
+    - RRSP has highest instant after tax value and lasts longest at increased withdrawal levels (confirm that last bit with data)
+    - because the typical use case for these accounts is small amounts in and out, RRSP does what it does best really effectively
+- high savings rate = lower tax rate at withdrawal time
+- always confirm the math for your particular situation
