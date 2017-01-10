@@ -5,6 +5,8 @@ tags: [tax]
 modified: 2016-08-28
 image:
   feature: mugs.jpg
+  credit: Unsplash
+  creditlink: https://pixabay.com/en/mugs-cups-table-wooden-massive-642113/
 ---
 
 People often wonder when they should use an RRSP or TFSA. Both can be very useful, but if you only have enough extra income to fund one, which should you use? Many of the arguments for or against these accounts are based on conceptual understanding. I will try to demonstrate with cold, hard math where the strengths of each lie.
